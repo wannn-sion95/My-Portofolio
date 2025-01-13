@@ -123,7 +123,7 @@ span {
 }
 
 .home-content h3 {
-  font-size: 4rem;
+  font-size: 3rem;
   margin-bottom: 1rem;
   font-weight: 700;
 }
@@ -200,7 +200,7 @@ span {
 }
 
 .typing-text span::before {
-  content: "software Developer";
+  content: "IT Enthusiast ";
   color: #7a359d;
   animation: words 20s infinite;
 }
